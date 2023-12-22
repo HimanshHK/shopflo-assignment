@@ -7,7 +7,7 @@ To run the program offline, follow the following steps:
 * Install NPM (Node Package Manager)
 * Clone the repository
 * Open Terminal & Go to the path `.\travel-event-booking` and Execute Following Commands  :
-* `npm i`
+* `npm install --force` or `npm i` 
 
 #### To start the server you have to open two terminal on the same path (`.\travel-event-booking`)
 * On first terminal execute
